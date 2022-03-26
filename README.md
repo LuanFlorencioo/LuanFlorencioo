@@ -3,12 +3,10 @@ _"The greatest wisdom there is to know yourself."_
   
 _Galileu Galilei_
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/LuanFlorencoo" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=30,000454,00067A,00066E,0009BA,000CFA&title_color=5EFFFF&text_color=3873FF&icon_color=5EFFFF&border_color=0055f9" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=30,000454,000000&title_color=5EFFFF&text_color=3873FF&icon_color=f8f8f8&border_color=000000&layout=compact" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=30,000454,00067A,00066E,0009BA,000CFA&title_color=5EFFFF&text_color=3873FF&icon_color=5EFFFF&border_color=0055f9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=30,000454,000000&title_color=5EFFFF&text_color=3873FF&icon_color=f8f8f8&border_color=000000&layout=compact" /> 
 </div>
   
 <div style="display: inline_block"><br>
