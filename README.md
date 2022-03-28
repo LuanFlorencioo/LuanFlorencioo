@@ -46,3 +46,5 @@
 
 <a href="https://instagram.com/luan.florencioo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000054?style=for-the-badge&logo=instagram&logoColor=EB0F5D" /></a>
 <a href="https://www.linkedin.com/in/luan-florencio-332ab322b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000054?style=for-the-badge&logo=linkedin&logoColor=005499" /></a>
+
+<img align="center" src="https://github.com/LuanFlorencioo/LuanFlorencioo/blob/output/github-contribution-grid-snake.svg" />
