@@ -43,32 +43,6 @@
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=30,000454,000000&title_color=5EFFFF&text_color=3873FF&icon_color=f8f8f8&border_color=000000&layout=compact" /> 
 
 ##
-<div>
-<img height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanFlorencioo&repo=Calculator&bg_color=30,000000,000454&title_color=5EFFFF&text_color=3873FF&icon_color=f8f8f8&border_color=000000" />
-<img height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanFlorencioo&repo=Profile-card-component&bg_color=30,000454,000000&title_color=5EFFFF&text_color=3873FF&icon_color=f8f8f8&border_color=000000" />
-<img height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=LuanFlorencioo&repo=FAQ_accordion_card&bg_color=30,000000,000454&title_color=5EFFFF&text_color=3873FF&icon_color=f8f8f8&border_color=000000" />
-</div>
 
-<!--
-
-##
-
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/LuanFlorencoo" />
-    
-  
-  
-  
-</div>
-  
-<div style="display: inline_block"><br>
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/luan-florencio-332ab322b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-  ![Snake animation](https://github.com/LuanFlorencioo/LuanFlorencioo/blob/output/github-contribution-grid-snake.svg)
-</div>
--->
+<a href="https://instagram.com/luan.florencioo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000054?style=for-the-badge&logo=instagram&logoColor=EB0F5D" /></a>
+<a href="https://www.linkedin.com/in/luan-florencio-332ab322b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000054?style=for-the-badge&logo=linkedin&logoColor=005499" /></a>
