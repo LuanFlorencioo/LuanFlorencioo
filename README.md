@@ -21,7 +21,7 @@
 
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=30,000454,00067A,00066E,0009BA,000CFA&title_color=5EFFFF&text_color=3873FF&icon_color=5EFFFF&border_color=0055f9" />
 
-#### 🔹 Ferramentas
+#### 🔹 Competências
 <div>
 <img alt="Luan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img alt="Luan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
