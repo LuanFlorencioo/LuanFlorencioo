@@ -42,6 +42,6 @@ I am currently studying systems analysis and development with completion expecte
 </div>
 
 <p align="center" style="color: #fff; font-weight: 100"><q>Perform every act of your life as if it were your last.</q></p>
-<p align="center" style="color: #fff; font-weight: 700">Marco Aurelio</p>
+<p align="center" style="color: #fff; font-weight: 700">Aurelio, Marco.</p>
 
 <img align="center" src="https://github.com/LuanFlorencioo/LuanFlorencioo/blob/output/github-contribution-grid-snake.svg" />
