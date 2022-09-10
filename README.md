@@ -1,7 +1,7 @@
 <img src="./imgs/banner-github.png">
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,2400ff,1b1b1b&title_color=2400ff&text_color=fff&icon_color=fff&border_color=c8ff09" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,2400ff,1b1b1b&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,4100ab&title_color=c0ff09&text_color=c0ff09&icon_color=fff&border_color=c0ff09&layout=compact" /> 
 </div>
 
