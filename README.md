@@ -1,8 +1,8 @@
 <img src="./imgs/banner-github.png">
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,2400ff,1b1b1b&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,4100ab&title_color=c0ff09&text_color=c0ff09&icon_color=fff&border_color=c0ff09&layout=compact" /> 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,2400ff,000&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,2400ffb&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff&layout=compact" /> 
 </div>
 
 <h1 style="border-bottom: 3px solid #c0ff09 ; padding: 15px; font-weight: 700;">Hello folks <img width="25" src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" /> I'm Luan, a student of Full Stack development</h1>
