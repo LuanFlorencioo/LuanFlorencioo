@@ -5,43 +5,40 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,2400ff&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff&layout=compact" /> 
 </div>
 
-<h1 style="border-bottom: 3px solid #c0ff09 ; padding: 15px; font-weight: 700;">Hello folks <img width="25" src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" /> I'm Luan, a student of Full Stack development</h1>
+<h1 style="border-bottom: 3px solid #c0ff09 ; padding: 15px; font-weight: 700;">👋 Hello folks! I'm Luan</h1>
 
-I am currently studying systems analysis and development with completion expected in 2024. I started learning to program in 2019, and until then I learned some technologies, frameworks and Front-End libs. But right now, I'm focused on becoming a Full Stack developer with the help of [Kenzie Academy](https://kenzie.com.br/), a programming school.
+I'm currently studying systems analysis and development. I'm a programming student at [Kenzie Academy Brazil](https://kenzie.com.br/) to become a full-stack developer.
 
 <h4>Curiositie's about me:</h4>
 
-- 🪐 I love things about space and the universe.
-- ⚽ I'm in love with football.
-- 🎬 The movie 'Interstellar' and the Netflix serie 'Dark' are my favorite movies and series.
+- 🪐 I love things about space and the universe;
+- 🎬 The movie 'Interstellar' and the Netflix serie 'Dark' are my favorite movies and series;
+- ☕ Programming without a coffee is almost impossible.
 
+### Knowledges
 
-<div>
-<h3>Knowledges</h3>
+![HTML](https://img.shields.io/badge/HTML-200?style=for-the-badge&logo=html5&logoColor=a00)
+![CSS](https://img.shields.io/badge/CSS-002?style=for-the-badge&logo=css3&logoColor=0af)
+![Sass](https://img.shields.io/badge/SASS-151515?style=for-the-badge&logo=sass&logoColor=)
+![Javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-428?style=for-the-badge&logo=styled-components&logoColor=fff)
 
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" target="_blank">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff" target="_blank">
-<img src="https://img.shields.io/badge/SASS-555?style=for-the-badge&logo=sass&logoColor=" target="_blank">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+![NodeJS](https://img.shields.io/badge/Node.js-379237?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=)
 
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff" target="_blank">
-<img src="https://img.shields.io/badge/git-330000?style=for-the-badge&logo=git&logoColor=" target="_blank">
-<img src="https://img.shields.io/badge/windows-eee?style=for-the-badge&logo=windows&logoColor=1525fe" target="_blank">
-</div>
+![Git](https://img.shields.io/badge/GIT-ddd?style=for-the-badge&logo=git&logoColor=)
+![Jest](https://img.shields.io/badge/Jest-502?style=for-the-badge&logo=jest&logoColor=)
 
-<div>
-<h3>Talk with me</h3>
+### Talk with me
 
-<a href="tel:+5521964216903"><img src="https://img.shields.io/badge/whatsapp-4c0?style=for-the-badge&logo=whatsapp&logoColor=fff" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luan-florencio-332ab322b/"><img src="https://img.shields.io/badge/linkedin-23a?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luan-florencio-332ab322b/"><img src="https://img.shields.io/badge/gmail-fdd?style=for-the-badge&logo=gmail&logoColor=" target="_blank"></a>
-
-<a href="https://join.slack.com/t/luanflorenciocontato/shared_invite/zt-1csxrxn7o-3S8seSP8W4~GJZUBGSaE0Q"><img src="https://img.shields.io/badge/slack-000?style=for-the-badge&logo=slack&logoColor=f33" target="_blank"></a>
-<a href="https://instagram.com/luanflorencioo"><img src="https://img.shields.io/badge/instagram-a3b?style=for-the-badge&logo=instagram&logoColor=" target="_blank"></a>
 <a href="https://discord.gg/8fxVFaMD"><img src="https://img.shields.io/badge/discord-222?style=for-the-badge&logo=discord&logoColor=" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/luanflorencioo"><img src="https://img.shields.io/badge/linkedin-23a?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a>
+<a href="https://join.slack.com/t/luanflorenciocontato/shared_invite/zt-1csxrxn7o-3S8seSP8W4~GJZUBGSaE0Q"><img src="https://img.shields.io/badge/slack-000?style=for-the-badge&logo=slack&logoColor=f33" target="_blank"></a>
 
-<p align="center" style="color: #fff; font-weight: 100"><q>Perform every act of your life as if it were your last.</q></p>
-<p align="center" style="color: #fff; font-weight: 700">Aurelio, Marco.</p>
+<p align="center" style="color: #fff; font-weight: 100"><q>Life can only be understood looking back, but it can only be lived looking forward.</q></p>
+<p align="center" style="color: #fff; font-weight: 700">Kierkegaard, Søren.</p>
 
 <img align="center" src="https://github.com/LuanFlorencioo/LuanFlorencioo/blob/output/github-contribution-grid-snake.svg" />
