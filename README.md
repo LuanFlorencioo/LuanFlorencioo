@@ -17,20 +17,32 @@ I'm currently studying systems analysis and development. I'm a programming stude
 
 ### Knowledges
 
-![HTML](https://img.shields.io/badge/HTML-200?style=for-the-badge&logo=html5&logoColor=a00)
-![CSS](https://img.shields.io/badge/CSS-002?style=for-the-badge&logo=css3&logoColor=0af)
-![Sass](https://img.shields.io/badge/SASS-151515?style=for-the-badge&logo=sass&logoColor=)
-![Javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-428?style=for-the-badge&logo=styled-components&logoColor=fff)
+> Front End
+>
+> ![HTML](https://img.shields.io/badge/HTML-200?style=for-the-badge&logo=html5&logoColor=a00)
+> ![CSS](https://img.shields.io/badge/CSS-002?style=for-the-badge&logo=css3&logoColor=0af)
+> ![Javascript](https://img.shields.io/badge/JavaScript-550?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+> ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+> ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> ![Next.js](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=)
+> ![Styled Components](https://img.shields.io/badge/styled--components-a28?style=for-the-badge&logo=styled-components&logoColor=)
 
-![NodeJS](https://img.shields.io/badge/Node.js-379237?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=)
+> Back End
+> 
+> ![NodeJS](https://img.shields.io/badge/Node.js-379237?style=for-the-badge&logo=node.js&logoColor=fff)
+> ![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-114?style=for-the-badge&logo=postgresql&logoColor=)
+> ![AWS](https://img.shields.io/badge/AWS-444?style=for-the-badge&logo=amazon&logoColor=)
 
-![Git](https://img.shields.io/badge/GIT-ddd?style=for-the-badge&logo=git&logoColor=)
-![Jest](https://img.shields.io/badge/Jest-502?style=for-the-badge&logo=jest&logoColor=)
+> More
+> 
+> ![Git](https://img.shields.io/badge/GIT-ddd?style=for-the-badge&logo=git&logoColor=)
+> ![Jest](https://img.shields.io/badge/Jest-502?style=for-the-badge&logo=jest&logoColor=)
+> ![Jira](https://img.shields.io/badge/Jira-09f?style=for-the-badge&logo=jira&logoColor=)
+> ![Figma](https://img.shields.io/badge/Figma-82f?style=for-the-badge&logo=figma&logoColor=fff)
+> ![Windows](https://img.shields.io/badge/Windows-07f?style=for-the-badge&logo=windows&logoColor=)
+> ![Linux](https://img.shields.io/badge/Linux-f70?style=for-the-badge&logo=linux&logoColor=000)
+> ![Ubuntu](https://img.shields.io/badge/Ubuntu-eee?style=for-the-badge&logo=ubuntu&logoColor=)
 
 ### Talk with me
 
