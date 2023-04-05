@@ -1,8 +1,6 @@
-<img src="./imgs/banner-github.png">
-
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,2400ff,000&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,2400ff&title_color=fff&text_color=fff&icon_color=fff&border_color=0024ff&layout=compact" /> 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,ff5500,000&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,ff5500&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&layout=compact" /> 
 </div>
 
 <h1 style="border-bottom: 3px solid #c0ff09 ; padding: 15px; font-weight: 700;">👋 Hello folks! I'm Luan</h1>
