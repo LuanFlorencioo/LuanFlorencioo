@@ -1,17 +1,11 @@
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,ff5500,000&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,000,ff5500&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&layout=compact" /> 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,ff5500,f90&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,f90,ff5500&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&layout=compact" /> 
 </div>
 
-<h1 style="border-bottom: 3px solid #c0ff09 ; padding: 15px; font-weight: 700;">👋 Hello folks! I'm Luan</h1>
+<h1 style="padding: 15px; font-weight: 700;">👋 Hello folks! I'm Luan</h1>
 
 I'm currently studying systems analysis and development. I'm a programming student at [Kenzie Academy Brazil](https://kenzie.com.br/) to become a full-stack developer.
-
-<h4>Curiositie's about me:</h4>
-
-- 🪐 I love things about space and the universe;
-- 🎬 The movie 'Interstellar' and the Netflix serie 'Dark' are my favorite movies and series;
-- ☕ Programming without a coffee is almost impossible.
 
 ### Knowledges
 
@@ -31,6 +25,8 @@ I'm currently studying systems analysis and development. I'm a programming stude
 > ![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
 > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-114?style=for-the-badge&logo=postgresql&logoColor=)
 > ![AWS](https://img.shields.io/badge/AWS-444?style=for-the-badge&logo=amazon&logoColor=)
+> ![Python](https://img.shields.io/badge/Python-fd0?style=for-the-badge&logo=python&logoColor=)
+> ![Django](https://img.shields.io/badge/Django-150?style=for-the-badge&logo=django&logoColor=)
 
 > More
 > 
@@ -44,9 +40,8 @@ I'm currently studying systems analysis and development. I'm a programming stude
 
 ### Talk with me
 
-<a href="https://discord.gg/8fxVFaMD"><img src="https://img.shields.io/badge/discord-222?style=for-the-badge&logo=discord&logoColor=" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luanflorencioo"><img src="https://img.shields.io/badge/linkedin-23a?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a>
-<a href="https://join.slack.com/t/luanflorenciocontato/shared_invite/zt-1csxrxn7o-3S8seSP8W4~GJZUBGSaE0Q"><img src="https://img.shields.io/badge/slack-000?style=for-the-badge&logo=slack&logoColor=f33" target="_blank"></a>
+<a href="https://wa.me/+5521964216903"><img src="https://img.shields.io/badge/discord-240?style=for-the-badge&logo=whatsapp&logoColor=" target="_blank"></a>
+<a href="https://linkedin.com/in/luanflorencioo"><img src="https://img.shields.io/badge/linkedin-23a?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a>
 
 <p align="center" style="color: #fff; font-weight: 100"><q>Life can only be understood looking back, but it can only be lived looking forward.</q></p>
 <p align="center" style="color: #fff; font-weight: 700">Kierkegaard, Søren.</p>
