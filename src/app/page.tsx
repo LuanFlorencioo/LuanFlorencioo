@@ -1,11 +1,13 @@
 import {
-  Header
+  Header,
+  Home,
 } from "@/components";
 
 const App = () => {
   return (
     <>
       <Header />
+      <Home />
     </>
   )
 }
