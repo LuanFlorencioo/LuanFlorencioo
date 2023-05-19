@@ -1,0 +1,37 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2.8rem 1rem;
+}
+
+.navbar > a:nth-child(1),
+.navbar > a:nth-child(2) {
+  width: calc(50% - 1rem);
+  height: max-content;
+}
+
+.navbar > a:nth-child(3) {
+  width: 100%;
+  height: max-content;
+}
+
+.navbar > a > button {
+  width: 100%;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    width: max-content;
+    flex-flow: row-reverse nowrap;
+    justify-content: flex-end;
+  }
+
+  .navbar > a,
+  .navbar > a > button {
+    width: max-content;
+  }
+}
