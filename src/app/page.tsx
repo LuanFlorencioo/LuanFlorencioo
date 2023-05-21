@@ -1,6 +1,7 @@
 import {
   Header,
   Home,
+  TechsSection,
 } from "@/components";
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <>
       <Header />
       <Home />
+      <TechsSection />
     </>
   )
 }
