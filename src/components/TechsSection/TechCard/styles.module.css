@@ -1,11 +1,5 @@
-.tech_list {
-  width: 100%;
-  padding: 4rem 0;
-  user-select: none;
-}
-
-.tech_list > ul > li {
-  width: 12rem;
+.tech_card {
+  min-width: 12rem;
   height: 12rem;
   background: var(--color-white);
   border-radius: .8rem;
@@ -18,12 +12,12 @@
   position: relative;
 }
 
-.tech_list > ul > li:hover {
+.tech_card:hover {
   background: var(--color-gradient-black-alt);
   color: var(--color-white);
 }
 
-.tech_list > ul > li > span {
+.tech_card > span {
   width: max-content;
   height: max-content;
   padding: .4rem .8rem;
@@ -41,7 +35,7 @@
   z-index: 100;
 }
 
-.tech_list > ul > li:hover > span {
+.tech_card:hover > span {
   display: block;
   animation: show_placeholder .4s forwards;
 }

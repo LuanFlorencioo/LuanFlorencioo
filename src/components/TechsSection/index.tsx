@@ -1,6 +1,7 @@
 import { GiClick } from "react-icons/gi";
-import TechList from "./TechList";
+import techs from "./techs";
 import styles from "./styles.module.css";
+import TechCard from "./TechCard";
 
 const TechsSection = () => {
   return (
@@ -10,7 +11,17 @@ const TechsSection = () => {
 
         <GiClick className={styles.hand_viewer} />
 
-        <TechList />
+        <ul>
+          {
+            techs.map(({icon, placeholder}, i) => (
+              <TechCard 
+                key={i}
+                icon={icon}
+                placeholder={placeholder}
+              />
+            ))
+          }
+        </ul>
       </div>
     </section>
   )

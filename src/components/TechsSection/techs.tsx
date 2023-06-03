@@ -1,3 +1,4 @@
+import { iTechData } from "@/interfaces";
 import {
   DiHtml5,
   DiCss3,
@@ -18,7 +19,7 @@ import {
   SiPostgresql,
 } from "react-icons/si";
 
-const techs = [
+const techs: iTechData[] = [
   {
     icon: <DiHtml5 />,
     placeholder: "HTML",

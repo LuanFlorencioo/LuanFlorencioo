@@ -11,7 +11,7 @@ const ProjectCard = ({ title, tags, description, app }: iProjectCardProps) => {
         tags.length > 0 && (
           <p className={styles.project_tags}>
             tags:
-            {tags.map((tag) => <span>{tag}</span>)}
+            {tags.map((tag) => <span key={tag} >{tag}</span>)}
           </p>
         )
       }
@@ -27,16 +27,22 @@ const ProjectCard = ({ title, tags, description, app }: iProjectCardProps) => {
       }
 
       <div>
-        <a href={`https://github.com/LuanFlorencioo/${title}`} target="_blank" rel="noopener noreferrer">
-          <FaCode />
-          Repositório
+        <a
+          href={`https://github.com/LuanFlorencioo/${title}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaCode /> Repositório
         </a>
 
         {
           app && (
-            <a href={app} target="_blank" rel="noopener noreferrer">
-              <FaExternalLinkAlt />
-              Ver Aplicação
+            <a
+              href={app}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaExternalLinkAlt /> Ver Aplicação
             </a>
           )
         }
