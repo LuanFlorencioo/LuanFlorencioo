@@ -12,6 +12,7 @@ const App = () => {
       <Header />
       <Home />
       <TechsSection />
+      {/* @ts-expect-error Async Server Component */}
       <ProjectsSection />
       <ContactSection />
     </>
