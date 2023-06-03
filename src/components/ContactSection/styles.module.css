@@ -1,0 +1,50 @@
+.contact_section {
+  width: 100%;
+  margin-top: 6rem;
+  background: var(--color-black);
+  position: relative;
+}
+
+.contact_section > div {
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.contact_section > div > h2 {
+  font: var(--text-section-title);
+  color: var(--color-white);
+}
+
+.contact_section > div > p {
+  font: var(--text-phrase);
+  color: var(--color-white);
+}
+
+.contact_section > div > p > span {
+  padding: .4rem .8rem;
+  background: var(--color-white-low);
+  border-radius: .4rem;
+  font: var(--text-button);
+  color: var(--color-black);
+}
+
+.contact_section > div > div {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2rem;
+}
+
+.contact_section > div > a {
+  position: absolute;
+  top: -2rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
