@@ -3,6 +3,7 @@ import Header from "./Header";
 import Home from "./Home";
 import TechsSection from "./TechsSection";
 import ProjectsSection from "./ProjectsSection";
+import ContactSection from "./ContactSection";
 
 export {
   Button,
@@ -10,4 +11,5 @@ export {
   Home,
   TechsSection,
   ProjectsSection,
+  ContactSection,
 }

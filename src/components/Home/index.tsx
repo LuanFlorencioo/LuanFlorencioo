@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 
 const Home = () => {
   return (
-    <section className={styles.home}>
+    <section id="home" className={styles.home}>
       <div>
         <h1>Luan Florencio Dev. Full Stack</h1>
 

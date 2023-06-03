@@ -4,9 +4,14 @@ import ProjectCard from "./ProjectCard";
 import styles from "./styles.module.css";
 
 const getRepos = async () => {
-  const response = await api.get<iRepo[]>("/users/LuanFlorencioo/repos");
-  const repos = response.data;
-  return repos;
+  try {
+    const response = await api.get<iRepo[]>("/users/LuanFlorencioo/repos");
+    const repos = response.data;
+    return repos;
+  }
+  catch (err) {
+    return [];
+  }
 }
 
 const ProjectsSection = async () => {
