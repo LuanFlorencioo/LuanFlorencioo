@@ -1,0 +1,23 @@
+.projects_section {
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  background-color: var(--color-white);
+  display: flex;
+  flex-flow: column wrap;
+  gap: 4rem;
+}
+
+.projects_section > h2 {
+  font: var(--text-section-title);
+  color: var(--color-grey);
+}
+
+.projects_section > ul {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  flex-flow: column wrap;
+  gap: 6rem;
+}
