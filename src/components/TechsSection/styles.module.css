@@ -1,0 +1,52 @@
+.techs_section {
+  width: 100%;
+  background: var(--color-white-low);
+}
+
+.techs_section > div {
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 8rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  position: relative;
+}
+
+.techs_section > div > h2 {
+  max-width: 30rem;
+  font: var(--text-section-title);
+  color: var(--color-grey);
+}
+
+.hand_viewer {
+  font-size: 3.2rem;
+  color: var(--color-grey);
+  position: absolute;
+  top: 22rem;
+  right: 2rem;
+  z-index: 100;
+  animation: hand_to_left 2s infinite;
+}
+
+@media (min-width: 768px) {
+  .hand_viewer {
+    display: none;
+  }
+}
+
+@keyframes hand_to_left {
+  0% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(-200%);
+    opacity: .5;
+  }
+  100% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+}

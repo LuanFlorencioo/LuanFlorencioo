@@ -1,0 +1,31 @@
+.header_title {
+  width: max-content;
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.header_title > img {
+  border-radius: 50%;
+}
+
+.header_title > p {
+  font: var(--text-header-title);
+  color: var(--color-black);
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .header_title:hover > img {
+    animation: avatar_rotate .4s forwards;
+  }
+
+  @keyframes avatar_rotate {
+    from {
+      rotate: 0deg;
+    }
+    to {
+      rotate: 360deg;
+    }
+  }
+}

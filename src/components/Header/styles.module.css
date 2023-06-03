@@ -1,0 +1,38 @@
+.header {
+  width: 100%;
+  background: #FFFFFF50;
+  backdrop-filter: blur(.5rem);
+  border-radius: 0 0 1rem 1.6rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 500;
+  animation: pull_header_to_down .6s forwards;
+}
+
+.container {
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 1.2rem 2rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2.8rem 0;
+}
+
+@media (min-width: 768px) {
+  .header {
+    border-radius: 0;
+  }
+}
+
+@keyframes pull_header_to_down {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
