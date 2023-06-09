@@ -18,6 +18,7 @@ I'm currently studying systems analysis and development. I'm a programming stude
 > ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 > ![Next.js](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=)
 > ![Styled Components](https://img.shields.io/badge/styled--components-a28?style=for-the-badge&logo=styled-components&logoColor=)
+> ![Tailwindcss](https://img.shields.io/badge/tailwindcss-023?style=for-the-badge&logo=tailwindcss&logoColor=)
 
 > Back End
 > 
