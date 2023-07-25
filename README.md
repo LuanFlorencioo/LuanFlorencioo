@@ -1,11 +1,13 @@
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,ff5500,f90&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,f90,ff5500&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&layout=compact" /> 
-</div>
+![Wave](/images/wave.svg)
 
 <h1 style="padding: 15px; font-weight: 700;">👋 Hello folks! I'm Luan</h1>
 
-I'm currently studying systems analysis and development. I'm a programming student at [Kenzie Academy Brazil](https://kenzie.com.br/) to become a full-stack developer.
+I'm a full-stack developer passionate about Front End. If you want to take a look at my portfolio, [click here](https://florencioo.vercel.app)
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LuanFlorencioo&hide=contribs&count_private=true&show_icons=true&bg_color=0,1a1919,222&title_color=fff&text_color=fff&icon_color=fff&border_color=000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFlorencioo&bg_color=0,222,1a1919&title_color=fff&text_color=fff&icon_color=fff&border_color=000&layout=compact" />
+</div>
 
 ### Knowledges
 
@@ -41,8 +43,8 @@ I'm currently studying systems analysis and development. I'm a programming stude
 
 ### Talk with me
 
-<a href="https://wa.me/+5521964216903"><img src="https://img.shields.io/badge/discord-240?style=for-the-badge&logo=whatsapp&logoColor=" target="_blank"></a>
-<a href="https://linkedin.com/in/luanflorencioo"><img src="https://img.shields.io/badge/linkedin-23a?style=for-the-badge&logo=linkedin&logoColor=" target="_blank"></a>
+<a href="https://wa.me/+5521964216903" target="_blank"><img src="https://img.shields.io/badge/discord-240?style=for-the-badge&logo=whatsapp&logoColor=" /></a>
+<a href="https://linkedin.com/in/luanflorencioo" target="_blank"><img src="https://img.shields.io/badge/linkedin-23a?style=for-the-badge&logo=linkedin&logoColor=" /></a>
 
 <p align="center" style="color: #fff; font-weight: 100"><q>Life can only be understood looking back, but it can only be lived looking forward.</q></p>
 <p align="center" style="color: #fff; font-weight: 700">Kierkegaard, Søren.</p>
